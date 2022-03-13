@@ -228,9 +228,10 @@ main {
 
 .comment .meta {
     font-size: 90%;
+    font-weight: bolder;
     margin-bottom: .5%;
-    opacity: .6;
     border-radius: 5px;
+    color: rgb(24, 16, 1);
 }
 
 .new-post-form input {
