@@ -18,7 +18,7 @@
 
   This project is a CMS-style blogsite so I can publish articles, blog posts, and my thoughts and opinions.
  
-  No need to clone this repository it is deployed to [Heroku](https://git.heroku.com/tech-talkers.git)
+  No need to clone this repository it is deployed to [Heroku](https://tech-talkers.herokuapp.com/)
   
   ![Scrren Capture of a Post w/Comment](./assets/img/postCAPTURE.PNG)
   
